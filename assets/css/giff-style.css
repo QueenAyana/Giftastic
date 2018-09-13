@@ -1,0 +1,42 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi-Ej2CEnJRl8xZW3TKDzzoNPZhuN6EJ97ozn5gFIb-1Bzf9hn);
+    background-size: contain;
+}
+#btnDiv{
+    position: sticky;
+    width: 100%;
+    color: rgba(255, 255, 255, 0.715); 
+    border: dashed 3px;
+    border-radius: 15%;
+}
+jumbotron{
+    background-color: #a0cff1; 
+    border: ridge 3px; 
+    border-bottom-left-radius: 30%;
+    border-bottom-right-radius: 30%;
+    text-align: center;
+    font-family: fantasy; 
+    font-size: 18pt;
+    height: 50px;
+}
+#headGuts{
+    color: rgb(187,85,117)
+}
+gifDiv{
+    position: relative;
+    width: 100%;
+    border: dashed 3px white;
+    border-radius: 20%;
+}
+#funnBtn{
+    background-color: rgb(187,85,117);
+    border-color: white;
+}
+#toonBtn{
+    background-color: rgb(187,85,117);
+    border-color: white;
+    margin:5px
+}
+#inputGif{
+    float: right
+}
